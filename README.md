@@ -26,3 +26,6 @@ Flash the Code: Open your .ino file, select your ESP32 board, and hit upload.
 
 Check Display: If the screen is blank, double-check your I2C address (usually 0x3C).
 
+<img width="1671" height="863" alt="image" src="https://github.com/user-attachments/assets/17fe6485-ddf0-4e58-a0e5-dc2cd3ba96d8" />
+<img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/4ef3e782-abc8-41de-9ce0-676529f7a00f" />
+
