@@ -2,7 +2,7 @@ Designed by Hydrance Robotics
 
 **ESP32 Climate Monitor**
 
-This project turns an ESP32 and a DHT11 sensor into a live climate tracker that displays real-time data on a 0.96" I2C OLED screen.
+This project turns an ESP32 and a DHT11 sensor into a live climate tracker that displays real-time data on a 0.96" I2C OLED screen. I made this project so I know the exact temperature and humidity of my environment, this is pretty useful when storing filaments or 3d printing. 
 
 **Required Libraries**
 
