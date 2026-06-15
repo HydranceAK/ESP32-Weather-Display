@@ -16,6 +16,8 @@ DHT sensor library by Adafruit
 
 Adafruit Unified Sensor (required dependency for DHT)
 
+The purpose of this build is so you know your exact tempreture and humidity level where you go. Since it's small and powered by USB-C, it can be powered anywhere and at anytime.
+
 **Quick Setup**
 
 Wire it up: Follow the table above.
@@ -29,4 +31,5 @@ Check Display: If the screen is blank, double-check your I2C address (usually 0x
 <img width="1671" height="863" alt="image" src="https://github.com/user-attachments/assets/17fe6485-ddf0-4e58-a0e5-dc2cd3ba96d8" />
 <img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/4ef3e782-abc8-41de-9ce0-676529f7a00f" />
 <img width="956" height="132" alt="image" src="https://github.com/user-attachments/assets/99c0ef46-0d2c-4c26-ab61-8dcacdae233b" />
+<img width="399" height="218" alt="image" src="https://github.com/user-attachments/assets/241e178f-a26c-41ea-8ba1-a3b50047fb3c" />
 
